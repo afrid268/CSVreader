@@ -1,4 +1,4 @@
-##the technology stack used are##
+##the technology stack used are#
 
 front end:
 
