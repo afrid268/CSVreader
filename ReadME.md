@@ -4,6 +4,7 @@ front end:
 
 * HTML
 * CSS
+* JAVASCRIPT
 
 
 backend:
