@@ -1,0 +1,34 @@
+﻿roll_no,name,std,remarks,percentage
+101,amith,8,pass,50
+102,jim ,8,fail,20
+103,john ,8,absent,0
+104,amith ,8,pass,46
+105,amith ,8,pass,47
+126,peter,8,pass,100
+127,will,8,absent,0
+128,sam,8,fail,45
+129,jack,8,pass,56
+130,peter,8,pass,53
+214,jack,9,pass,100
+215,jack,9,pass,80
+216,johnny,9,pass,80
+217,johnny,9,pass,80
+218,will,9,pass,80
+219,smith,9,pass,80
+220,sam,9,pass,80
+221,johnny,9,absent,0
+222,will,9,absent,0
+223,will,9,absent,0
+348,sam,10,pass,49
+349,sam,10,pass,47
+350,jack,10,pass,100
+351,johnny,10,absent,0
+352,sam,10,pass,94
+353,peter,10,pass,97
+354,jack,10,pass,86
+355,johnny,10,pass,83
+356,sam,10,pass,48
+357,sam,10,pass,100
+358,will,10,fail,20
+359,jack,10,fail,2
+360,smith,10,fail,19
