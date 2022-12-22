@@ -1,9 +1,9 @@
-##the technology stack used are#
+## the technology stack used are#
 
 front end:
 
-*html
-*css
+* html
+* css
 
 
 backend:
